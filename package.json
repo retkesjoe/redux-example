@@ -1,0 +1,8 @@
+{
+  "name": "redux-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:retkesjoe/redux-example.git",
+  "author": "Szabó Gábor Endre <szabo.gabor.com@gmail.com>",
+  "license": "MIT"
+}
