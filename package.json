@@ -4,5 +4,18 @@
   "main": "index.js",
   "repository": "git@github.com:retkesjoe/redux-example.git",
   "author": "Szabó Gábor Endre <szabo.gabor.com@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.1",
+    "redux-observable": "^1.0.0",
+    "reselect": "^4.0.0",
+    "rxjs": "^6.4.0",
+    "typescript": "^3.3.3333",
+    "typescript-fsa": "^3.0.0-beta-2",
+    "typescript-fsa-reducers": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/react-redux": "^7.0.1",
+    "rxjs-tslint": "^0.1.7"
+  }
 }
