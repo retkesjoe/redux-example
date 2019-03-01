@@ -5,7 +5,16 @@
   "repository": "git@github.com:retkesjoe/redux-example.git",
   "author": "Szabó Gábor Endre <szabo.gabor.com@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "cross-env NODE_ENV=development webpack-dev-server --config tools/webpack.dev.js"
+  },
   "dependencies": {
+    "app-root-path": "^2.1.0",
+    "babel-loader": "^8.0.5",
+    "cross-env": "^5.2.0",
+    "dotenv": "^6.2.0",
+    "offline-plugin": "^5.0.6",
+    "path": "^0.12.7",
     "redux": "^4.0.1",
     "redux-observable": "^1.0.0",
     "reselect": "^4.0.0",
@@ -16,6 +25,16 @@
   },
   "devDependencies": {
     "@types/react-redux": "^7.0.1",
-    "rxjs-tslint": "^0.1.7"
+    "copy-webpack-plugin": "^5.0.0",
+    "fork-ts-checker-webpack-plugin": "^0.5.2",
+    "rxjs-tslint": "^0.1.7",
+    "tslint": "^5.13.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.0.1",
+    "tslint-react": "^3.6.0",
+    "webpack": "^4.29.6",
+    "webpack-bundle-analyzer": "^3.0.4",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
   }
 }
