@@ -3,7 +3,7 @@ import { ofType } from "redux-observable";
 
 import { AjaxResponse } from "utils/redux";
 import { Observable, catchError, filter, map, mergeMap, of, takeUntil } from "utils/rxjs";
-import { AsyncActionCreators, ActionCreator } from "typescript-fsa";
+import { AsyncActionCreators } from "typescript-fsa";
 
 /*
  * Check /client/store/:folder:/actions.ts for more info of the possible types!
@@ -34,13 +34,12 @@ export const ActionHandler = <
   ART,
   D extends AjaxResponse<ART>,
   F,
-  T extends AsyncActionCreators<S | undefined, D, F>,
-  R extends {[K: string]: ActionCreator<void>}
+  T extends AsyncActionCreators<S | undefined, D, F>
 >(
   action$: Observable<Action>,
   apiCall: (opt?: S) => Observable<D>,
   actionCall: T,
-  importedAction: R
+  importedAction: any
 ) =>
   action$.pipe(
     filter(actionCall.started.match),
