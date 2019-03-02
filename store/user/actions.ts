@@ -7,5 +7,5 @@ import { User } from "./model";
 const actionCreator = actionCreatorFactory("Auth");
 
 export default {
-  login: actionCreator.async<undefined, AjaxResponse<User>, string>("LOGIN")
+  getUser: actionCreator.async<undefined, AjaxResponse<User>, string>("LOGIN")
 };
