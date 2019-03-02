@@ -1,12 +1,5 @@
 import { LoaderStatus } from "..";
-
-export interface LoaderModel {
-  status: LoaderStatus;
-  lastUpdated: number;
-  statusCode: number;
-  isLoading(): boolean;
-  isLoaded(): boolean;
-}
+import { LoaderModel } from "./Loader.interfaces";
 
 export abstract class Loader implements LoaderModel {
   status: LoaderStatus;

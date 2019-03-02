@@ -1,3 +1,3 @@
 export * from "./loader";
-export * from "./ajaxResponse";
-export * from "./convertToClient";
+export * from "./ajax/ajaxResponse";
+export * from "./converter/dataConverter";
