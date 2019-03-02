@@ -1,0 +1,104 @@
+{
+  "backToSubscriptions": "Back to Subscriptions",
+  "cancelled": {
+    "enterYourCommentHere": "Enter your comment here...",
+    "feedback": {
+      "MISSING_FEATURES": "The service offering does not meet my needs.",
+      "TOO_EXPENSIVE": "I have found a more cost-effective solution.",
+      "NOT_COMPREHENSIVE": "I have found a more comprehensive solution.",
+      "NO_NEED": "I no longer need the subscription.",
+      "BAD_PERFORMANCE": "The performance of the service is not sufficient.",
+      "OTHER": "Other"
+    },
+    "iDontWantToSendFeedback": "I don't want to send feedback",
+    "manyThanks": "Many thanks for your feedback",
+    "sendFeedback": "Send feedback",
+    "subtitle": "We are sorry to see you go",
+    "title": "Cancelled subscription",
+    "weWouldLikeToKnowTheReason": "We would like to know the reason you have decided to cancel your subscription. Please select an option below:",
+    "yourFeedbackIsImportantForUs": "Your feedback is important for us"
+  },
+  "cancelledFeedback": {
+    "description": "Your current subscription will be valid til the end of current billing cycle, but we won't charge your card after it.",
+    "title": "You cancelled your subscription"
+  },
+  "cancelModal": {
+    "cancelSubscription": "Cancel subscription",
+    "keepSubscription": "Keep subscription",
+    "title": "Cancel subscription",
+    "yourCurrentSubscriptionWillBeValid": "Your current subscription will be valid til the end of current billing cycle, but we won't charge your card after it. You can take your time to backup your resources."
+  },
+  "cancelSubscription": "Cancel subscription",
+  "doYouHaveQuestions": "Do you have questions regarding your subscription?",
+  "includingVat": "(incl. {{percent}}% VAT)",
+  "modifySubscription": {
+    "billingInfo": "Billing info",
+    "confirmation": {
+      "backToSubscriptions": "Back to Subscriptions",
+      "youWillReceiveAnAutomaticEmail": "You will receive an automatic email notification with your invoice and your serial number."
+    },
+    "paymentMethod": "Payment method",
+    "steps": {
+      "billing": {
+        "title": "Billing info"
+      },
+      "subscription": {
+        "modifySubscription": "Modify subscription",
+        "projectManager": {
+          "description": "for PMs to create, assign, and manage projects for translation and review.",
+          "title": "memoQ Project Manager"
+        },
+        "select": "Select",
+        "selected": "Selected",
+        "title": "Select subscription",
+        "translatorPro": {
+          "description": "for individual translators and reviewers who work on their own.",
+          "title": "memoQ Translator Pro"
+        },
+        "month": "month",
+        "price": "{{money}} / "
+      },
+      "summary": {
+        "currentSubscription": "Current subscription",
+        "difference": "Difference",
+        "higher": "<0>{{costInfo}}</0> The difference is proportional to the time left until the end of the current billing period. The difference will be charged immediately.",
+        "lower": "Your current subscription will be valid til the end of current billing cycle.You will pay the new monthly fee from your next billing period.",
+        "monthlyFeeOfSelectedSubscription": "Monthly fee of selected subscription is higher than the current.",
+        "newSubscription": "New subscription",
+        "payNow": "Pay now",
+        "remainingDaysForThisMonth": "(remaining {{days}} days for this month)",
+        "subtotal": "Subtotal",
+        "title": {
+          "payment": "Payment summary",
+          "subscription": "Monthly cost"
+        },
+        "total": "Total",
+        "vat": "VAT",
+        "translator": "memoQ Translator Pro",
+        "monthly": "{{money}} / mo",
+        "country": "({{country}})",
+        "countryVat": "{{percent}}% - ({{country}})"
+      }
+    },
+    "subscription": "Subscription",
+    "title": "Modify subscription"
+  },
+  "modifySubscriptionStr": "Modify subscription",
+  "nextBillingDate": "Next billing date is {{dateTrans}}",
+  "subscription": "Subscription",
+  "subtitle": "Your individual subscription",
+  "switched": {
+    "description": "Your current subscription will be valid til the end of current billing cycle.You will pay the new monthly fee from your next billing period.",
+    "title": "You switched to {{name}}"
+  },
+  "title": "Subscription",
+  "totalMonthlyCost": "Total monthly cost <0>{{vatTrans}}</0>",
+  "visitFaqPage": "Visit FAQ page",
+  "viewInvoiceHistory": "Vew invoice history",
+  "monthlyCost": "monthly cost",
+  "empty": {
+    "title": "No subscription yet",
+    "description": "Switch to monthly subscription and save.",
+    "subscribe": "Subscribe"
+  }
+}

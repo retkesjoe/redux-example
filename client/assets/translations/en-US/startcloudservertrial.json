@@ -1,0 +1,77 @@
+{
+  "account": "Account",
+  "configuration": "Configuration",
+  "licensesAndAddOns": "Licenses & add-ons",
+  "steps": {
+    "configuration": {
+      "addNameForYourCloudServer": "Add name for your cloud server",
+      "enterYourCloudServer": "Enter your cloud server name here...",
+      "hostNameWillBeDefined": "Host name will be defined after cloud server will be created. It will be something like this: https://hostname.memoq.com/servername. ",
+      "selectRegion": "Select region",
+      "title": "Configuration",
+      "startFreeTrial": "Start free trial",
+      "yourCloudServer": "Your cloud server can be deployed in several different geographic locations. Select one that best fits your user's geographic location."
+    },
+    "licenses": {
+      "add": "Add",
+      "added": "Added",
+      "addLicenses": "Add licenses",
+      "alreadyHaveSubscription": {
+        "title": "You already have a cloud subscription",
+        "subtitle": "Manage your subscription under my memoQ.",
+        "button": "Go to my memoQ"
+      },
+      "availableAddOns": "Available add-ons",
+      "perLicense": "per license",
+      "projectManager": {
+        "description": "for PMs to create, assign, and manage projects for translation and review.",
+        "title": "Project Manager"
+      },
+      "qterm": {
+        "description": "web based terminology application in your cloud server",
+        "monthly": "{{price}} / month",
+        "title": "Qterm"
+      },
+      "translatorPro": {
+        "description": "for individual translators and reviewers who work on their own.",
+        "title": "Translator Pro"
+      },
+      "webServicesApi": {
+        "description": "integrate your memoQ cloud server to a third party tool",
+        "monthly": "{{price}} / month",
+        "title": "Web Services API"
+      }
+    }
+  },
+  "summary": {
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "country": "Country",
+    "afterBillingCountrySelection": "The final total amount can be calculated after you select your billing country.",
+    "afterTrial": {
+      "free": "Free",
+      "subtotal": "Subtotal",
+      "title": "Cost after trial period",
+      "total": "Total",
+      "price": "{{price}} / mo",
+      "grossTotal": "{{total}} / mo",
+      "netTotal": "{{netTotal}} / mo",
+      "vat": "VAT"
+    },
+    "moreInfoAboutEuTaxation": "More info about EU taxation",
+    "free": {
+      "description": "Your trial period is valid for 1 month and does not require entering any payment information upfront. If you start today, <0>{{yourFreeTrialTrans}}</0> will last until <1>{{dateTrans}}</1>.",
+      "title": "Free trial for 1 month",
+      "yourFreeTrial": "your free trial"
+    },
+    "ifEuVatIsFilledIn": "If EU VAT ID is filled in, it will be indicated on the invoice. If you enter your valid EU VAT ID, special taxation rules apply.",
+    "tooltip": {
+      "webLicenses": "Each Project Manager license includes 5 additional free web licenses. Free web licenses enable your users to access your cloud server from the memoQWeb browser-based application."
+    },
+    "selectCountry": "Select country",
+    "enterEuVatId": "Enter EU VAT ID",
+    "euVatId": "EU VAT ID",
+    "vat": "VAT {{percent}}% - {{country}}"
+  },
+  "title": "Start Cloud Server"
+}

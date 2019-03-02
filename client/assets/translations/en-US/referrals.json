@@ -1,0 +1,29 @@
+{
+  "invite": {
+    "browseFaq": "browse FAQ",
+    "copy": "Copy",
+    "forMoreInfo": "For more info read <0>{{readTermsTrans}}</0> or <1>{{browseFaqTrans}}</1>.",
+    "getDiscount": "{{money}} discount",
+    "introduceMemoQToOther": "Introduce memoQ to other translators and after they buy the product, you will get <0>{{discountTrans}}</0> for your next SMA for every new referral.",
+    "orShareThisLink": "Or share this link",
+    "readTerms": "terms",
+    "sendInvite": "Send invite",
+    "title": "Invite translators and get {{money}} discount",
+    "youCanEnterEmailAddresses": "You can enter email addresses separated by spaces."
+  },
+  "rewardHistory": {
+    "empty": {
+      "description": "Invite others and get reward.",
+      "title": "No rewards yet"
+    },
+    "hide": "Hide full history",
+    "show": "Show full history",
+    "title": "Balance & history",
+    "history": "History",
+    "purchase": "purchased {{amount}} licence",
+    "balance": "Current balance",
+    "smaRenewal": "You can use {{money}} for the next SMA renewal.",
+    "renewed": "You renewed SMA"
+  },
+  "title": "Referrals"
+}

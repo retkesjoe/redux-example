@@ -1,0 +1,9 @@
+{
+  "createAnAccount": "Create an account",
+  "dontHaveAnAccountYet": "Don't have an account yet? {{link}}",
+  "emailOrUser": "E-mail address or user name",
+  "forgotPassword": "Forgot password?",
+  "password": "Password",
+  "signIn": "Sign in to my memoQ",
+  "title": "Sign in to my memoQ"
+}

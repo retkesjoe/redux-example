@@ -1,0 +1,47 @@
+{
+  "list": {
+    "dueInDays": "Due in {{days}} days",
+    "invoice": "Invoice",
+    "on": "on {{date}}",
+    "overdue": "Overdue by {{days}} days",
+    "paid": "Paid <0>{{dateTrans}}</0>",
+    "pay": "Pay",
+    "searchByInvoiceNumber": "Search by invoice number",
+    "status": "Status",
+    "total": "Total",
+    "type": {
+      "license": "License",
+      "rental": "Rental",
+      "subscription": "Subscription"
+    },
+    "view": "View"
+  },
+  "noInvoices": {
+    "description": "You don't have invoices right now. You can track and pay them here.",
+    "title": "No invoices yet"
+  },
+  "payInvoice": {
+    "backToInvoices": "Back to Invoices",
+    "billingInfo": "Billing info",
+    "confirmation": {
+      "title": "Payment successful",
+      "youHaveSuccessfullyPaidYourInvoices": "You have successfully paid your invoices!"
+    },
+    "payment": "Payment",
+    "steps": {
+      "billing": {
+        "title": "Billing info"
+      },
+      "summary": {
+        "billing": "Billing to",
+        "subtotal": "Subtotal",
+        "title": "Payment summary",
+        "total": "Total",
+        "vat": "VAT",
+        "vatId": "VAT ID: "
+      }
+    },
+    "title": "Pay invoices"
+  },
+  "title": "Invoices"
+}

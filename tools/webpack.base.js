@@ -1,7 +1,9 @@
 const webpack = require("webpack");
 const CopyPlugin = require("copy-webpack-plugin");
+const HtmlPlugin = require("html-webpack-plugin");
 const ForkChecker = require("fork-ts-checker-webpack-plugin");
 
+const manifest = require("../client/assets/static/manifest");
 const { env, paths, useDebugSymbols } = require("./config");
 const { resolveAbsolute, generatePublic } = require("./util");
 const loaders = require("./webpack/loaders");
@@ -40,6 +42,14 @@ module.exports = {
       {
         test: /\.tsx?$/,
         use: loaders.ts
+      },
+      {
+        test: /\.(woff|woff2|eot|ttf)$/i,
+        use: "file-loader"
+      },
+      {
+        test: /\.(gif|png|jpe?g|svg|webm)$/i,
+        use: "url-loader"
       }
     ]
   },
@@ -49,6 +59,20 @@ module.exports = {
       /^\.\/(de|hu|pt|es|fr|ja|ru|pl|zh-hk)/
     ),
     new CopyPlugin([{ from: paths.static }]),
+    new HtmlPlugin({
+      inject: false,
+      minify: null,
+      template: paths.indexHtml,
+      publicPath: paths.public,
+      baseHref: undefined,
+      meta: [
+        {
+          name: "description",
+          content: manifest.description
+        }
+      ],
+      title: manifest.name
+    }),
     new ForkChecker({
       tslint: true,
       async: env.isDev,

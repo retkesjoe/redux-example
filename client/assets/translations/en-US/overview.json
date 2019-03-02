@@ -1,0 +1,41 @@
+{
+  "title": "Overview",
+  "info": {
+    "lifetime": "lifetime value",
+    "smaTill": "sma till",
+    "contacts": "Contacts",
+    "address": "Address"
+  },
+  "PerpetualLicenses": {
+    "zipCity": "{{zip}}, {{city}}",
+    "perpetuals": "Perpetual licenses",
+    "total": "Total",
+    "qty": "qty",
+    "product": "product",
+    "sma": "sma"
+  },
+  "licenseHistory": {
+    "licenseHistory": "License History ({{amount}})",
+    "type": "Type",
+    "detail": "Detail",
+    "serial": "Serial number",
+    "date": "Date",
+    "amount": "Amount"
+  },
+  "support": {
+    "support": "Support & maintenance ({{amount}})",
+    "invoice": "Invoice number",
+    "issuedAt": "Issued at",
+    "amount": "Amount"
+  },
+  "cloud": {
+    "cloudHistory": "Cloud history ({{amount}})",
+    "type": "Type",
+    "detail": "Detail",
+    "date": "Date",
+    "amount": "Amount",
+    "lifeTimeValue": "Cloud lifetime value: ",
+    "active": "Active",
+    "cancelled": "Cancelled"
+  }
+}

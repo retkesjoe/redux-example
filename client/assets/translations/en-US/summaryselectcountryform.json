@@ -1,0 +1,9 @@
+{
+  "country": "Country",
+  "euVatId": "EU VAT ID",
+  "enterEuVatId": "Enter EU VAT ID",
+  "apply": "Apply",
+  "cancel": "Cancel",
+  "ifEuVatIsFilledIn": "If EU VAT ID is filled in, it will be indicated on the invoice. If you enter your valid EU VAT ID, special taxation rules apply.",
+  "moreInfoAboutEuTaxation": "More info about EU taxation"
+}

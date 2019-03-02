@@ -1,0 +1,64 @@
+{
+  "accountAndBilling": "Account & billing",
+  "confirmation": {
+    "youHaveSuccessfullyCompletedYourPayment": "You have successfully completed your payment!",
+    "youWillReceiveAnAutomaticEmail": "You will receive an automatic email notification with your invoice and your serial number."
+  },
+  "packages": "Packages",
+  "paymentMethod": "Payment method",
+  "signIn": "Sign in",
+  "steps": {
+    "billing": {
+      "title": "Add billing info"
+    },
+    "packages": {
+      "conference": {
+        "entranceToANetworkingEvent": "Entrance to a networking event on the evening of the workshop day.",
+        "entranceToTheGalaDinner": "Entrance to the gala dinner.",
+        "entranceToThePreConference": "Entrance to the pre-conference networking event.",
+        "registrationForOnePerson": "Registration for one person for conference days, including lunch and coffee breaks.",
+        "title": "Conference Package"
+      },
+      "informalDinner": {
+        "hiltonBudapest": "Hilton Budapest - Buda Castle / night castle tour (optional).",
+        "title": "Informal Dinner"
+      },
+      "masterClassAndConference": {
+        "entranceToANetworkingEvent": "Entrance to a networking event on the evening of the workshop day.",
+        "entranceToTheGalaDinner": "Entrance to the gala dinner.",
+        "entranceToThePreConference": "Entrance to the pre-conference networking event.",
+        "registrationForOnePersonForConferenceDays": "Registration for one person for conference days, including lunch and coffee breaks.",
+        "registrationForOnePersonForTheMasterClass": "Registration for one person for the Master Class day, including lunch and coffee breaks.",
+        "title": "Master Class & Conference Package"
+      },
+      "packageIncludes": "Package includes",
+      "perPackage": "<0>{{priceTrans}}</0> per package",
+      "title": "Select packages"
+    }
+  },
+  "summary": {
+    "afterBillingCountrySelection": "The final total amount can be calculated after you select your billing country.",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "country": "Country",
+    "discount": "Discount",
+    "doYouHaveADiscountCode": "Do you have a discount code?",
+    "enterCodeHere": "Enter code here...",
+    "enterEuVatId": "Enter EU VAT ID",
+    "error": {
+      "discount": "The coupon code you entered is either expired or invalid."
+    },
+    "euVatId": "EU VAT ID",
+    "euVatIsNotValid": "The EU VAT ID you entered is not an EU Community VAT ID. In your country looks like this: HU999999999.",
+    "ifEuVatIsFilledIn": "If EU VAT ID is filled in, it will be indicated on the invoice. If you enter your valid EU VAT ID, special taxation rules apply.",
+    "moreInfoAboutEuTaxation": "More info about EU taxation",
+    "refreshSummary": "Refreshing summary...",
+    "remove": "Remove",
+    "selectCountry": "Select country",
+    "subtotal": "Subtotal",
+    "title": "Order summary",
+    "total": "Total",
+    "vat": "VAT"
+  },
+  "title": "Purchase memoQfest packages"
+}

@@ -1,0 +1,25 @@
+{
+  "byCreatingAnAccount": "By creating account, you agree to our {{link}}.",
+  "email": "Email address",
+  "error": {
+    "email": "This email address is already in use. {{link}}",
+    "signIn": "Sign in to my memoQ"
+  },
+  "lead": {
+    "alreadyHaveAnAccount": "Already have an account? <0>{{linkAccountTrans}}</0>",
+    "dontHaveAnAccountYet": "Don't have an account yet? <0>{{linkNoAccountTrans}}</0>",
+    "toPurchaseLicenses": "To purchase licenses you need to create a my memoQ account. In the future, you can manage your licensed licenses, SMA and cloud subscriptions with this account."
+  },
+  "password": "Password",
+  "requirements": {
+    "minimumChars": "12 characters minimum",
+    "noWhiteSpaces": "No white spaces at start or end",
+    "oneDigit": "One number",
+    "oneLowercase": "One lowercase character",
+    "oneSpecialChar": "One special character",
+    "oneUppercase": "One uppercase character"
+  },
+  "signIn": "Sign in",
+  "signUp": "Sign up",
+  "title": "Create account"
+}

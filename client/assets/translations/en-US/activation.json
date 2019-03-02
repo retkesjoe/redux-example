@@ -1,0 +1,33 @@
+{
+  "activating": "Activating...",
+  "error": {
+    "lead": "memoQ activation data could not be prepared. The uploaded file seems to be corrupted.",
+    "title": "Failed activation",
+    "tryAgain": "Try again"
+  },
+  "help": {
+    "stillNeedHelp": {
+      "contactOurSupportTeam": "contact our support team",
+      "ifYouAreHavingAProblem": "If you are having a problem, <0>{{linkTrans}}</0>.",
+      "title": "Still need help?"
+    },
+    "title": "Help",
+    "xml": {
+      "step1": "Open your copy of memoQ",
+      "step2": "Choose Help > Activation",
+      "step3": "Click the Retrive activation data for sending in e-mail link",
+      "step4": "memoQ will save an XML file",
+      "step5": "Please upload the XML file here",
+      "title": "How to get activation XML file?"
+    }
+  },
+  "ifYouCannotActivateOnline": "If you cannot activate your memoQ product online, run the manual activation here.",
+  "success": {
+    "title": "Successful request",
+    "upload": "Upload new request",
+    "download": "Download activation file",
+    "description": "Little afraid its eat looked now. Very ye lady girl them good me make. It hardly cousin me always. An shortly village is raising we shewing replied. ",
+    "readMore": "Read more"
+  },
+  "title": "Activation"
+}

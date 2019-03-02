@@ -1,0 +1,20 @@
+{
+  "createAccount": "Create account",
+  "description": {
+    "extendAndRentLicenses": "Extend and rent licenses",
+    "manageCloudServer": "Manage cloud server",
+    "manageYourSubscriptions": "Manage your subscriptions",
+    "participateInReferralProgram": "Participate in referral program",
+    "titleBold": "One account",
+    "titleNormal": " to access all your memoQ services",
+    "trackAndPayYourInvoices": "Track and pay your invoices"
+  },
+  "form": {
+    "createAnAccount": "Create an account",
+    "alreadyHaveAnAccount": "Already have an account yet? {{link}}",
+    "email": "E-mail address",
+    "password": "Password",
+    "signin": "Sign in"
+  },
+  "title": "Create my memoQ account"
+}

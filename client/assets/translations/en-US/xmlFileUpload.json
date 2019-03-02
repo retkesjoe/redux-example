@@ -1,0 +1,11 @@
+{
+  "browseFile": "browse file",
+  "dragAndDropFile": "Drag & drop XML file",
+  "dropFileToUploadIt": "Drop file to upload it",
+  "failedToUploadFile": "Failed to upload XML file ",
+  "makeSureItsInFormat": "make sure it's in XML format",
+  "successfullyUploadedFile": "Successfully uploaded XML file",
+  "tryAgain": "Try again",
+  "uploadingFile": "Uploading file...",
+  "uploadFile": "<0>{{dragAndDropFileTrans}}</0> or <1>{{browseFileTrans}}</1>"
+}

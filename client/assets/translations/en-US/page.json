@@ -1,0 +1,16 @@
+{
+  "confirmation": {
+    "thankYouForYourPurchase": "Thank you for your purchase",
+    "backToLicenses": "Back to Licenses",
+    "activateYourMyQAccount": "Activate your myQ account",
+    "weHaveSentAnEmailToAddress": "We've sent an email to {{email}}. ",
+    "weHaveSentAnEmailToYourEmailAddress": "We've sent an email to your email address. ",
+    "openItUpToActivateYourAccount": "Open it up to activate your account.",
+    "downloadMemoQ": "Download memoQ",
+    "watchWebinars": "Watch webinars",
+    "downloadMemoQLink": "If you haven't downloaded the latest version of memoQ, visit <0>{{linkDownloadsTrans}}</0> page.",
+    "downloads": "Downloads",
+    "visitWebinars": "You can browse dozens of videos from our memoQ experts on <0>{{linkWebinarsTrans}}</0> page.",
+    "webinars": "Webinars"
+  }
+}

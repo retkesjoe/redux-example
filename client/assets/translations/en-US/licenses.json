@@ -1,0 +1,118 @@
+{
+  "extendSMA": {
+    "accountAndBilling": "Account and billing",
+    "backToLicenses": "Back to licenses",
+    "confirmation": {
+      "youWillReceiveAnAutomaticEmail": "You will receive an automatic email notification with your invoice."
+    },
+    "duration": "Duration",
+    "paymentMethod": "Payment method",
+    "steps": {
+      "billing": {
+        "title": "Billing info"
+      },
+      "duration": {
+        "lead": "If your support and maintenance period expired, you can extend it here for additional years. The cost depends on the list price of your licenses.",
+        "perYear": "per year",
+        "smaBreakdown": {
+          "includingVat": "(incl. {{vat}}% VAT)",
+          "purchased": "Purchased",
+          "subtotal": "Subtotal",
+          "title": "SMA Breakdown",
+          "totalMonthlyCost": "Total Monthly Cost <0>{{vatTrans}}</0>",
+          "totalNetUpgradeFee": "Total net upgrade fee",
+          "upgradeFee": "Upgrade fee",
+          "validFromTo": "Year {{numberOfYears}} - valid from {{from}} to {{to}}",
+          "vat": "VAT {{percent}}% ({{country}})"
+        },
+        "supportAndMaintenanceUntil": "Support and Maintenance until",
+        "title": "Select duration",
+        "viewDetails": "View details"
+      },
+      "summary": {
+        "collectedReward": "Collected reward",
+        "extendSMA": "Extend SMA",
+        "subtotal": "Subtotal",
+        "title": "Summary",
+        "total": "Total",
+        "vat": "VAT {{percent}}% ({{country}})",
+        "year": "year"
+      }
+    },
+    "title": "Extend SMA"
+  },
+  "list": {
+    "buyNewLicenses": "Buy new licenses",
+    "currentLicenses": "Current licenses",
+    "extendSMA": "Extend SMA",
+    "floatingLicense": "floating license",
+    "hideLicenses": "Hide licenses",
+    "licenses": "Licenses",
+    "licenseUpgrade": {
+      "help": {
+        "contactYourAccountManagement": "contact your account management.",
+        "ifYouHaveQuestions": "If you have questions, please",
+        "title": "Still need help?"
+      },
+      "lead": "To upgrade memoQ to the latest version, you might need to purchase more than one year of support and maintenance.",
+      "readOurSMAPolicy": "Read more about our SMA policy",
+      "title": "License upgrade"
+    },
+    "noLicenses": {
+      "buyLicenses": "Buy licenses",
+      "description": "You don't have licenses right now. If you buy some, you can manage them, extend SMAs and rent other licenses here.",
+      "title": "No licenses yet"
+    },
+    "rentLicenses": "Rent licenses",
+    "rentedLicenses": "Rented licenses",
+    "serialNumbers": "{{number}} Serial numbers",
+    "SMAExpiredDaysAgo": "SMA expired {{numberOfDays}} day ago",
+    "SMAExpiredDaysAgo_plural": "SMA expired {{numberOfDays}} days ago",
+    "SMAExpiresInDays": "SMA expires in {{numberOfDays}} day",
+    "SMAExpiresInDays_plural": "SMA expires in {{numberOfDays}} days",
+    "title": "Licenses",
+    "valid": "Valid",
+    "viewLicenses": "View licenses"
+  },
+  "rentLicenses": {
+    "accountAndBilling": "Account and billing",
+    "backToLicenses": "Back to licenses",
+    "confirmation": {
+      "theMomentYourPayment": "The moment your payment reaches us, your licenses are ready to use on the server. For the licenses to become available to use, update your licenses on your server and then restart the memoQ server service.",
+      "youWillReceiveAnAutomaticEmail": "You will receive an automatic email notification with your invoice."
+    },
+    "licenses": "Licenses",
+    "license": "License",
+    "paymentMethod": "Payment method",
+    "steps": {
+      "billing": {
+        "title": "Billing info"
+      },
+      "licenses": {
+        "addMoreLicenses": "Add more licenses",
+        "amount": "Amount",
+        "expiration": "Expiration",
+        "lead": "The minimum rental is 5 mobile Translator Pro licenses for a minimum of 1 month. The rental cannot be postponed, refunded or transferred.",
+        "month": "month",
+        "projectManager": "Project Manager",
+        "remove": "Remove",
+        "selectServerSerial": "Select server serial",
+        "title": "Add licenses to rent",
+        "totalPrice": "Total price",
+        "translatorPro": "Translator Pro",
+        "unitPrice": "Unit price",
+        "validity": "Validity",
+        "validityStartsAt": "Validity starts at"
+      }
+    },
+    "summary": {
+      "monthly": "{{money}} / mo",
+      "month": "month",
+      "subtotal": "Subtotal",
+      "title": "Rental summary",
+      "total": "Total",
+      "vat": "VAT {{amount}}% - (Hungary)"
+    },
+    "title": "Rent licenses"
+  }
+}

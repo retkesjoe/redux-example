@@ -12,7 +12,7 @@ const env = {
 };
 
 // Paths
-const app = "./store";
+const app = "./client";
 const build = "./wwwroot";
 const packageJson = resolveAbsolute("package.json");
 const paths = {
@@ -31,7 +31,8 @@ const host = process.env.HOST;
 const devServer = {
   port,
   host,
-  address: `http://${host}:${port}`
+  address: `http://${host}:${port}`,
+  apiServer: process.env.API_SERVER || `http://localhost:4200`
 };
 
 module.exports = {

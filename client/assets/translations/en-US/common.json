@@ -1,0 +1,31 @@
+{
+  "continue": "Continue",
+  "languages": {
+    "english": "English",
+    "french": "French",
+    "german": "German"
+  },
+  "privacyPolicy": "Privacy Policy",
+  "title": "Kilgray",
+  "termsOfService": "Terms of Service",
+  "termsOfUse": "Terms of use",
+  "menu": {
+    "accountDetails": "Account details",
+    "billingDetails": "Billing details",
+    "licenses": "Licenses",
+    "subscription": "Subscription",
+    "cloudServer": "Cloud server",
+    "invoices": "Invoices",
+    "referrals": "Referrals",
+    "activation": "Activation",
+    "account": "Account",
+    "signOut": "Sign out",
+    "overview": "Overview"
+  },
+  "kilgray": "© Kilgray {{year}}",
+  "month": "month",
+  "signIn": "Sign in",
+  "loading": "Loading",
+  "pleaseWait": "Please wait",
+  "currency": "{{sign}}{{currency}}{{amount}}"
+}

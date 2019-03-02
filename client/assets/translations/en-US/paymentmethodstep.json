@@ -1,0 +1,30 @@
+{
+  "buttonLabels": {
+    "wirecard": "Proceed to secure payment",
+    "paypal": "Proceed to PayPal",
+    "wiretransfer": "Place order"
+  },
+  "wirecard": {
+    "description": "You can pay with VISA or EuroCard/MasterCard. Your license serial number will be sent by email immediately.",
+    "poweredByWireCard": "Powered by WireCard",
+    "title": "Credit/debit Card"
+  },
+  "fail": {
+    "ohNoYourPaymentFailed": "Oh no! Your recent payment has failed.",
+    "pleaseRecheckOrChoose": "Please re-check your card details or choose a different payment method."
+  },
+  "paypal": {
+    "description": "To make your payment, you will need to log in to your Paypal account. Your license serial number will be sent by email immediately.",
+    "title": "PayPal"
+  },
+  "redirectMessages": {
+    "wirecard": "We are going to redirect you to WireCard where you can finalize your payment securely.",
+    "paypal": "We are going to redirect you to PayPal where you can finalize your payment securely.",
+    "wiretransfer": "We are going to place you order. It will be finalized after we receiving your transfer."
+  },
+  "title": "Choose payment method",
+  "wiretransfer": {
+    "description": "The order will be completed after your payment arrives to Kilgray's bank account. You will then receive your license serial number in email.",
+    "title": "Wire transfer"
+  }
+}

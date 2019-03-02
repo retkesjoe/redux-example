@@ -1,3 +1,20 @@
+const { useDebugSymbols } = require("../config");
+
+const css = [
+  {
+    loader: "css-loader",
+    options: { sourceMap: useDebugSymbols, importLoaders: 1 }
+  }
+];
+
+const scss = css.concat([
+  "resolve-url-loader",
+  {
+    loader: "sass-loader",
+    options: { sourceMap: useDebugSymbols }
+  }
+]);
+
 const ts = [
   {
     loader: "babel-loader",
@@ -16,5 +33,7 @@ const ts = [
 ];
 
 module.exports = {
+  css,
+  scss,
   ts
 };

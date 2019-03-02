@@ -1,0 +1,208 @@
+{
+  "cancelled": {
+    "enterYourCommentHere": "Enter your comment here...",
+    "feedback": {
+      "MISSING_FEATURES": "The service offering does not meet my needs.",
+      "NOT_COMPREHENSIVE": "I have found a more comprehensive solution.",
+      "TOO_EXPENSIVE": "I have found a more cost-effective solution.",
+      "NO_NEED": "I no longer need the subscription.",
+      "BAD_PERFORMANCE": "The performance of the service is not sufficient.",
+      "OTHER": "Other:"
+    },
+    "iDontWantToSendFeedback": "I don't want to send feedback",
+    "manyThanks": "Many thanks for your feedback",
+    "backToCloudServer": "Back to Cloud server",
+    "sendFeedback": "Send feedback",
+    "subtitle": "We are sorry to see you go",
+    "title": "Cancel cloud subscription",
+    "weWouldLikeToKnowTheReason": "We would like to know the reason you have decided to cancel your subscription. Please select an option below:",
+    "yourFeedbackIsImportantForUs": "Your feedback is important for us"
+  },
+  "empty": {
+    "description": "Get your advanced translation productivity in cloud",
+    "getStartedFree": "Get started free",
+    "learnMore": "Learn more",
+    "title": "No cloud subscription yet"
+  },
+  "modifySubscription": {
+    "backToCloudServer": "Back to Cloud Server",
+    "billingInfo": "Billing info",
+    "confirmation": {
+      "backToCloudServer": "Back to Cloud Server",
+      "youWillReceiveAnAutomaticEmail": "You will receive an automatic email notification with your invoice and your serial number."
+    },
+    "payment": "Payment",
+    "steps": {
+      "billing": {
+        "title": "Billing info"
+      },
+      "start": {
+        "add": "Add",
+        "added": "Added",
+        "availableAddons": "Available add-ons:",
+        "modifySubscription": "Modify subscription",
+        "month": "month",
+        "price": "{{money}} / ",
+        "perLicense": "per license",
+        "perLicensePerMonth": "per license/month",
+        "projectManager": {
+          "description": "for PMs to create, assign, and manage projects for translation and review.",
+          "title": "Project Manager"
+        },
+        "qTerm": {
+          "description": "web based terminology application in your cloud server",
+          "title": "Qterm"
+        },
+        "translatorPro": {
+          "description": "for individual translators and reviewers who work on their own.",
+          "title": "Translator Pro"
+        },
+        "webServicesApi": {
+          "description": "integrate your memoQ cloud server to a third party tool",
+          "title": "Web Services API"
+        }
+      },
+      "summary": {
+        "currentSubscription": "Current subscription",
+        "difference": "Difference",
+        "free": "Free",
+        "modifiedSubscription": "Modified subscription",
+        "payNow": "Pay now",
+        "subtotal": "Subtotal",
+        "theDifferenceWillBeCharged": "<0>{{costInfoHigherTrans}}</0> The difference will be charged immediately. The difference is proportional to the time left until the end of the current billing period.",
+        "thisWillCostYouLess": "This will cost you {{cost}} less each month.",
+        "thisWillCostYouMore": "This will cost you {{cost}} more each month.",
+        "title": {
+          "payment": "Payment summary",
+          "subscription": "Subscription summary"
+        },
+        "total": "Total",
+        "vat": "VAT {{amount}}% - (Hungary)",
+        "youAreChangingToACheaper": "<0>{{costInfoLowerTrans}}</0> You are changing to a cheaper subscription - there is no refund. However, you will pay a lower monthly fee from your next billing period. If you have paid more than the new subscription fee, no further payment is required."
+      }
+    },
+    "title": "Modify cloud server subscription"
+  },
+  "server": {
+    "help": {
+      "getInTouch": "get in touch with our support team",
+      "gettingStarted": "Getting started with memoQ cloud server",
+      "howToUse": "How to use memoQ cloud server",
+      "ifYouNeedAssistance": "If you need assistance with memoQ or require a recent backup <0>{{linkTrans}}</0>.",
+      "stillNeedHelp": "Still need help?",
+      "title": "Help"
+    },
+    "manageServer": {
+      "copyAddress": "Copy address",
+      "copyUrl": "Copy URL",
+      "resourcesApi": "Resources API",
+      "restartServer": "Restart server",
+      "serverAddress": "Server address",
+      "startServer": "Start server",
+      "state": {
+        "running": "Running",
+        "starting": "Starting...",
+        "stopped": "Stopped",
+        "stopping": "Stopping..."
+      },
+      "stopServer": "Stop server",
+      "title": "Manage server:",
+      "webServerUrl": "Web Server URL",
+      "wsApiAccessPoint": "WS API Access Point"
+    },
+    "manageSubscription": {
+      "addOns": "Add-ons",
+      "cancelSubscription": "Cancel subscription",
+      "free": "Free",
+      "includingVat": "(incl. 0% VAT)",
+      "licenses": "Licenses",
+      "modifySubscription": "Modify subscription",
+      "monthlyCost": "Monthly cost",
+      "nextBillingDate": "Next billing date is <0>{{billingDateTrans}}</0>",
+      "qTerm": "QTerm",
+      "subscribeNow": "Subscribe now",
+      "title": "Manage subscription",
+      "totalMonthlyCost": "Total monthly cost <0>{{vatTrans}}</0>",
+      "trial": {
+        "expiresInDays": "expires in {{days}} days",
+        "title": "Your subscription is free trial",
+        "willExpire": "Your trial period <0>{{expiresInDaysTrans}}</0> (<1>{{trialExpiryDateTrans}}</1>). Even if you let your trial expire we will preserve your server for 30 days. After 30 days the server will be deleted."
+      },
+      "webServiceApi": "WebService API"
+    },
+    "settings": {
+      "changeAdminPassword": "Change admin password",
+      "ipFiltering": "IP filtering for the WS API",
+      "modals": {
+        "cancel": {
+          "after30Days": "After 30 days the server will be deleted.",
+          "cancelSubscription": "Cancel subscription",
+          "confirmThatYouUnderstand": "Confirm that you understand the ramifications of your action.",
+          "keepSubscription": "Keep subscription",
+          "title": "Cancel cloud server subscription",
+          "warning": "Warning: this cannot be undone.",
+          "weWillPreserveYourServer": "We will preserve your server for 30 days."
+        },
+        "changeAdminPassword": {
+          "changePassword": "Change password",
+          "discard": "Discard",
+          "newPassword": "New password",
+          "title": "Change admin password",
+          "updateSettings": "Update settings"
+        },
+        "ipFiltering": {
+          "add": "Add",
+          "addNewIpAddress": "Add new IP address",
+          "discard": "Discard",
+          "enterIpAddress": "Enter IP address",
+          "note": "Note",
+          "noteYourMemoQ": "<0>{{noteTrans}}</0> your memoQ cloud server will restart if you change these settings.",
+          "specifyTheIpAddress": "Specify the IP address of computers that are allowed to use memoQ server API.",
+          "title": "IP filtering for the WS API",
+          "updateSettings": "Update settings"
+        },
+        "scheduleBackup": {
+          "backupTime": "Time of backup",
+          "discard": "Discard",
+          "everyDay": "every day",
+          "selectTime": "Select time",
+          "selectTimezone": "Select timezone",
+          "timezone": "Timezone",
+          "title": "Schedule backup and updates",
+          "updateSettings": "Update settings",
+          "wePerformMaintenance": "We perform maintenance on your memoQ cloud server <0>{{everyDayTrans}}</0>. The maintenance includes creating a full backup of the server and installing updates if there are any. Normally, it takes 1-2 minutes, but never more than 30 minutes."
+        }
+      },
+      "scheduleBackupAndUpdates": "Schedule backup and updates",
+      "title": "Settings"
+    }
+  },
+  "setup": {
+    "adminPassword": "Admin password",
+    "backupSettings": "Backup settings",
+    "continue": "Continue",
+    "doneGoToCloudServer": "Done, go to cloud server",
+    "start": {
+      "lead": "You are going to set up your cloud server in two easy steps and it takes only a few minutes.",
+      "letsStart": "Let's start",
+      "title": "Set up cloud subscription",
+      "welcome": "Welcome to your cloud server!"
+    },
+    "steps": {
+      "adminPassword": {
+        "adminPassword": "Admin password",
+        "title": "Add server admin password"
+      },
+      "backupSettings": {
+        "backupTime": "Backup time",
+        "everyDay": "every day",
+        "lead": "We perform maintenance on your memoQ cloud server <0>{{everyDayTrans}}</0>. The maintenance includes creating a full backup of the server and installing updates if there are any. Normally, this takes 1-2 minutes, but never more than 30 minutes.",
+        "selectTime": "Select time",
+        "selectTimezone": "Select timezone",
+        "timezone": "Timezone",
+        "title": "Schedule backup and updates"
+      }
+    }
+  },
+  "title": "Cloud server"
+}

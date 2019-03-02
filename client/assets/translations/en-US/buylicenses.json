@@ -1,0 +1,56 @@
+{
+  "accountAndBilling": "Account & billing",
+  "confirmation": {
+    "youHaveSuccessfullyCompletedYourPayment": "You have successfully completed your payment!",
+    "youWillReceiveAnAutomaticEmail": "You will receive an automatic email notification with your invoice and your serial number."
+  },
+  "licenses": "Licenses",
+  "paymentMethod": "Payment method",
+  "steps": {
+    "billing": {
+      "title": "Add billing info"
+    },
+    "licenses": {
+      "add": "Add",
+      "enterSerialNumber": "Enter serial number...",
+      "error": "Entered serial number is not valid.",
+      "doYouHaveATrial": "Do you have a trial license?",
+      "hasBeenAdded": "has been added.",
+      "lead": "You can only select standalone licenses here. To purchase server (floating) licenses, please contact your account manager.",
+      "perLicense": "per license",
+      "projectManager": {
+        "description": "for PMs to create, assign and manage projects for translation and review.",
+        "title": "Project Manager"
+      },
+      "remove": "Remove",
+      "supportAndMaintenance": "Support and Maintenance until",
+      "title": "Select licenses",
+      "translatorPro": {
+        "description": "for individual translators and reviewers who work on their own.",
+        "title": "Translator Pro"
+      },
+      "trialLicense": "Trial license"
+    }
+  },
+  "signIn": "Sign in",
+  "summary": {
+    "afterBillingCountrySelection": "The final total amount can be calculated after you select your billing country.",
+    "applyDiscount": "Apply",
+    "country": "Country",
+    "discount": "Discount",
+    "doYouHaveADiscountCode": "Do you have a discount code?",
+    "enterCodeHere": "Enter code here...",
+    "error": {
+      "discount": "The coupon code you entered is either expired or invalid."
+    },
+    "euVatIsNotValid": "The EU VAT ID you entered is not an EU Community VAT ID. In your country looks like this: HU999999999.",
+    "refreshSummary": "Refreshing summary...",
+    "remove": "Remove",
+    "selectCountry": "Select country",
+    "subtotal": "Subtotal",
+    "title": "Order summary",
+    "total": "Total",
+    "vat": "VAT {{percent}}% ({{country}})"
+  },
+  "title": "Buy licenses"
+}

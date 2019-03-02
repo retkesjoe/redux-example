@@ -1,0 +1,56 @@
+{
+  "accountAndBilling": "Account & billing",
+  "confirmation": {
+    "youHaveSuccessfullyCompletedYourPayment": "You have successfully completed your payment!",
+    "youWillReceiveAnAutomaticEmail": "You will receive an automatic email notification with your invoice and your serial number."
+  },
+  "paymentMethod": "Payment method",
+  "subscription": "Subscription",
+  "steps": {
+    "subscription": {
+      "projectManager": {
+        "description": "for PMs to create, assign, and manage projects for translation and review.",
+        "title": "memoQ Project Manager",
+        "price": "{{money}} / ",
+        "month": "month"
+      },
+      "select": "Select",
+      "selected": "Selected",
+      "serial": {
+        "description": "Can't find the serial number? <0>{{linkTrans}}</0>",
+        "error": "Please enter a valid serial number to continue.",
+        "followThisInstruction": "Follow this instruction.",
+        "placeholder": "Serial number goes here, e.g. AK343-VN523-EO432-DN124",
+        "title": "Enter your serial number"
+      },
+      "title": "Select subscription",
+      "translatorPro": {
+        "description": "for individual translators and reviewers who work on their own.",
+        "title": "memoQ Translator Pro",
+        "price": "{{money}} / ",
+        "month": "month"
+      }
+    },
+    "billing": {
+      "title": "Add billing info"
+    }
+  },
+  "summary": {
+    "afterBillingCountrySelection": "The final total amount can be calculated after you select your billing country.",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "country": "Country",
+    "enterEuVatId": "Enter EU VAT ID",
+    "euVatId": "EU VAT ID",
+    "euVatIsNotValid": "The EU VAT ID you entered is not an EU Community VAT ID. In your country looks like this: HU999999999.",
+    "ifEuVatIsFilledIn": "If EU VAT ID is filled in, it will be indicated on the invoice. If you enter your valid EU VAT ID, special taxation rules apply.",
+    "moreInfoAboutEuTaxation": "More info about EU taxation",
+    "selectCountry": "Select country",
+    "subtotal": "Subtotal",
+    "title": "Monthly cost",
+    "total": "Total",
+    "vat": "VAT",
+    "monthly": "{{amount}} /mo"
+  },
+  "title": "Subscribe"
+}

@@ -1,0 +1,53 @@
+{
+  "accountDetails": {
+    "email": {
+      "billingDetailsLink": "Billing details",
+      "changeEmailAddress": "Change email address",
+      "currentEmailAddress": "Current email address",
+      "lead": "Please note that we provide Single-Sign-On to my memoQ and Language Terminal. Changing your email address takes effect in all of these services. Email address change will be completed after you verify your email address. You can specify an alternative contact email address within <0>{{linkTrans}}</0>.",
+      "newEmailAddress": "New email address",
+      "title": "Change email address"
+    },
+    "feedback": "Updated account details.",
+    "password": {
+      "changePassword": "Change password",
+      "currentPassword": "Current Password",
+      "lead": "Please note that we provide Single-Sign-On to memoq.com and Language Terminal by means of the Kilgray account. Changing your password takes effect in all of these services.",
+      "newPassword": "New password",
+      "title": "Change password"
+    },
+    "preferences": {
+      "language": "Language",
+      "title": "My memoQ preferences",
+      "updatePreferences": "Update preferences"
+    },
+    "title": "Account details"
+  },
+  "billingDetails": {
+    "billingAddress": {
+      "address": "Address",
+      "city": "City",
+      "country": "Country",
+      "postalOrZipCode": "Postal or zip code",
+      "stateOrProvinence": "State or provinence",
+      "title": "Billing address"
+    },
+    "billingInfo": {
+      "billingCurrency": "Billing currency",
+      "billingName": "Billing name",
+      "euVatId": "EU VAT ID",
+      "title": "Billing info"
+    },
+    "contactDetails": {
+      "email": "Email address",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "phone": "Phone number",
+      "title": "Contact details"
+    },
+    "feedback": "Updated billing details.",
+    "optional": "optional",
+    "saveChanges": "Save changes",
+    "title": "Billing details"
+  }
+}

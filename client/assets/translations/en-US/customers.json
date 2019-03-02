@@ -1,0 +1,13 @@
+{
+  "list": {
+    "searchbarPlaceholder": "Search by customer name, e-mail and serial numbers",
+    "smaTill": "SMA till",
+    "lifetimeValue": "Lifetime net value",
+    "lifespan": "Lifespan",
+    "customer": "Customer",
+    "view": "view",
+    "lifespanRow": "{{start}} / {{end}}"
+  },
+  "signOut": "Sign out",
+  "title": "Customers"
+}

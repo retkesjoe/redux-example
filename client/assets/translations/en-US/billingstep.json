@@ -1,0 +1,24 @@
+{
+  "billingAddress": {
+    "address": "Address",
+    "city": "City",
+    "country": "Country",
+    "postalOrZipCode": "Postal or zip code",
+    "stateOrProvince": "State or province",
+    "title": "Billing address"
+  },
+  "billingInfo": {
+    "currency": "Billing currency",
+    "euVatId": "EU VAT ID",
+    "name": "Billing name",
+    "title": "Billing info"
+  },
+  "contactDetails": {
+    "email": "E-mail address",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "phone": "Phone number",
+    "title": "Contact details"
+  },
+  "optional": "optional"
+}
